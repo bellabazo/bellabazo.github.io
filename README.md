@@ -10,4 +10,4 @@ University of Oregon
 ## Work Experience
 - IT Analyst
 - The Hub Sports Club
-- Bladium
+- Bladium 
