@@ -5,11 +5,11 @@
 - [Github Repository](https://www.youtube.com/watch?v=LXb3EKWsInQ)
 
 ## Education
-University of Oregon — Bachelor of Science in Data Science
-Eugene, OR • Sep. 2023 – Expected June 2027
+University of Oregon • Eugene, OR
+- Bachelor of Science in Data Science • Sep. 2023 – Expected June 2027
 
-Alameda High School — High School Diploma
-Alameda, CA • Aug. 2019 – June 2023
+Alameda High School • Alameda, CA
+— High School Diploma • Aug. 2019 – June 2023
 
 ## Work Experience
 University of Oregon • Eugene, OR
@@ -28,7 +28,7 @@ Pi Beta Phi Fraternity for Women • Eugene, OR
 - Vice President of Inclusion • Jan. 2024 – Dec. 2025
 
 Alameda Education Foundation • Alameda, CA 
-Camp Volunteer • July 2021
+- Camp Volunteer • July 2021
 
 
  
