@@ -1,15 +1,11 @@
 # Isabella Bazo - Portfolio
 
-## Projects
-- Description
-- [Github Repository](https://www.youtube.com/watch?v=LXb3EKWsInQ)
-
 ## Education
-University of Oregon • Eugene, OR
-- Bachelor of Science in Data Science • Sep. 2023 – Expected June 2027
+###Bachelor of Science in Data Science • Sep. 2023 – Expected June 2027
+*University of Oregon • Eugene, OR*
 
-Alameda High School • Alameda, CA
-- High School Diploma • Aug. 2019 – June 2023
+###High School Diploma • Aug. 2019 – June 2023
+*Alameda High School • Alameda, CA*
 
 ## Work Experience
 University of Oregon • Eugene, OR
