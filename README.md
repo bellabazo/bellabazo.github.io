@@ -1,4 +1,4 @@
-# bellabazo.github.io
+# Isabella Bazo - Portfolio
 
 ## Projects
 - Description
