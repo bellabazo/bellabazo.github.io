@@ -9,7 +9,7 @@ University of Oregon • Eugene, OR
 - Bachelor of Science in Data Science • Sep. 2023 – Expected June 2027
 
 Alameda High School • Alameda, CA
-— High School Diploma • Aug. 2019 – June 2023
+- High School Diploma • Aug. 2019 – June 2023
 
 ## Work Experience
 University of Oregon • Eugene, OR
