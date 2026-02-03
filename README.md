@@ -1,10 +1,10 @@
 # Isabella Bazo - Portfolio
 
 ## Education
-### Bachelor of Science in Data Science • Sep. 2023 – Expected June 2027
+#### Bachelor of Science in Data Science • Sep. 2023 – Expected June 2027
 *University of Oregon • Eugene, OR*
 
-### High School Diploma • Aug. 2019 – June 2023
+#### High School Diploma • Aug. 2019 – June 2023
 *Alameda High School • Alameda, CA*
 
 ## Work Experience
